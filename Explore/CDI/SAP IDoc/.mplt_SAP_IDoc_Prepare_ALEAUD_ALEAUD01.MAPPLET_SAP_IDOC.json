@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "i5z9pNg2NUDl4NtnolVNiO",
+    "name" : "mplt_SAP_IDoc_Prepare_ALEAUD_ALEAUD01",
+    "type" : "MAPPLET_SAP_IDOC",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "yt2n6mh8rp9g9x6fo57skc"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ {
+    "id" : "cuIfIKFRfwzdDoQd4sMli1",
+    "name" : "SAP_Table_Reader_SAP_R3_BASIS750_01",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01BQ700B00000000006Q"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "SAP_R3_BASIS750",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
