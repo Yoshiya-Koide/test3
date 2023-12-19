@@ -1,0 +1,88 @@
+{
+  "objectInfo" : {
+    "id" : "1JRMcjJ3gAkbUC32uq6s0X",
+    "name" : "mt_Cent8SA_OI_TEST",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01BQ700Z00000000004F"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-12-19T13:12:10.754Z",
+  "objectRefs" : [ {
+    "id" : "5u7knXGBbjTcTV6ypylfW1",
+    "name" : "Cent8SA_a",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01BQ702500000000000G"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "dgQvcW7RnESjGxS8cA6tMW",
+    "name" : "mp_13",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01BQ701700000000002K"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/001_Koide"
+  }, {
+    "id" : "7axo8EwPQm1l4qgjEx62E4",
+    "name" : "con_flat_Cent8SA",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01BQ700B00000000006Z"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "aaaaaaaaaaaaaaaaaaaaa",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
