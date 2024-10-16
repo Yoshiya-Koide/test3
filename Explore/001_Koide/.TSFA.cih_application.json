@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "65IfujGhMz7ggyBd3OUZ8U",
+    "name" : "TSFA",
+    "type" : "cih_application",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "7602"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2024-10-16T05:40:23.478Z",
+  "objectRefs" : [ ]
+}
