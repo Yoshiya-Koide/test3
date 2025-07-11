@@ -6,7 +6,10 @@
     "name" : "マッピング93",
     "links" : [
       {
-        "link" : "ソース -> ターゲット"
+        "link" : "式 -> ターゲット"
+      },
+      {
+        "link" : "ソース -> 式"
       }
     ],
     "transformations" : [
@@ -78,8 +81,33 @@
             "useSuccessFile" : "false"
           }
         }
+      },
+      {
+        "createTime" : "2025-07-11T08:26:46.871Z",
+        "name" : "式",
+        "groups" : [
+          {
+            "input" : "true",
+            "name" : "DefaultGroup",
+            "output" : "true",
+            "rules" : [
+              {
+                "bulkRename" : "false",
+                "include" : "true"
+              }
+            ]
+          }
+        ],
+        "windowConfigurationEnabled" : "false",
+        "windowSpec" : {
+          "allRowsFollowing" : "false",
+          "allRowsPreceding" : "false",
+          "endOffset" : 0,
+          "startOffset" : 0,
+          "partitionKeys" : null
+        }
       }
     ]
   },
-  "vcsExportTime" : "2025-06-10 11:04:13 JST"
+  "vcsExportTime" : "2025-07-11 17:27:01 JST"
 }
